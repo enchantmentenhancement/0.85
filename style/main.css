@@ -186,7 +186,7 @@ hr {
       margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
-      background: #66848f;
+      background: rgba(102, 132, 143, 0.00001);
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
@@ -197,7 +197,7 @@ hr {
       .game-container .game-message a.keep-playing-button {
         display: none; }
     .game-container .game-message .score-sharing {      display: inline-block;      vertical-align: middle;      margin-left: 10px; }    .game-container .game-message.game-won {
-      background: #66848f;
+      background: rgba(102, 132, 143, 0.00001);
       color: #9adcf5; }
       .game-container .game-message.game-won a.keep-playing-button {
         display: inline-block; }
