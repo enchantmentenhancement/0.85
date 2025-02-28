@@ -854,6 +854,12 @@ hr {
     background-image: url('https://enchantmentenhancement.github.io/0.85/Shardik_.png'); 
     background-size: 100% auto; 
     font-size: 1px; }
+  .tile.tile--43 .tile-inner {
+    color: #ffffff;
+    background: #ffffff;
+    background-image: url('https://enchantmentenhancement.github.io/0.85/7xr.png'); 
+    background-size: 100% auto; 
+    font-size: 1px; }
   .tile.tile--44 .tile-inner {
     color: #ffffff;
     background: #ffffff; 
@@ -956,6 +962,24 @@ hr {
     background-image: url('https://enchantmentenhancement.github.io/0.85/Bitcoyne.png'); 
     background-size: 100% auto; 
     font-size: 1px; }
+  .tile.tile--61 .tile-inner {
+    color: #ffffff;
+    background: #ffffff;
+    background-image: url('https://enchantmentenhancement.github.io/0.85/Ruhtray.png'); 
+    background-size: 100% auto; 
+    font-size: 1px; }
+  .tile.tile--62 .tile-inner {
+    color: #ffffff;
+    background: #ffffff;
+    background-image: url('https://enchantmentenhancement.github.io/0.85/Birdloop12.png'); 
+    background-size: 100% auto; 
+    font-size: 1px; }
+  .tile.tile--63 .tile-inner {
+    color: #ffffff;
+    background: #ffffff;
+    background-image: url('https://enchantmentenhancement.github.io/0.85/chereda.png'); 
+    background-size: 100% auto; 
+    font-size: 1px; }
   .tile.tile--64 .tile-inner {
     color: #ffffff;
     background: #ffffff;
@@ -992,10 +1016,22 @@ hr {
     background-image: url('https://enchantmentenhancement.github.io/0.85/En_t.png'); 
     background-size: 100% auto; 
     font-size: 1px; }
+  .tile.tile--70 .tile-inner {
+    color: #ffffff;
+    background: #ffffff;
+    background-image: url('https://enchantmentenhancement.github.io/0.85/max.png'); 
+    background-size: 100% auto; 
+    font-size: 1px; }
   .tile.tile--71 .tile-inner {
     color: #ffffff;
     background: #ffffff;
     background-image: url('https://enchantmentenhancement.github.io/0.85/peliz.png'); 
+    background-size: 100% auto; 
+    font-size: 1px; }
+  .tile.tile--72 .tile-inner {
+    color: #ffffff;
+    background: #ffffff;
+    background-image: url('https://enchantmentenhancement.github.io/0.85/Plotzes.png'); 
     background-size: 100% auto; 
     font-size: 1px; }
   .tile.tile--73 .tile-inner {
