@@ -602,6 +602,10 @@ hr {
     color: #cead96;
     background: #f1e2d7; 
     font-size: 9px; }
+  .tile.tile-8282828282 .tile-inner {
+    color: #b6784e;
+    background: #754b2f; 
+    font-size: 7px; }
   .tile.tile--1 .tile-inner {
     color: #ffffff;
     background: #ffffff;
@@ -1043,7 +1047,7 @@ hr {
   .tile.tile--74 .tile-inner {
     color: #ffffff;
     background: #ffffff;
-    background-image: url('https://enchantmentenhancement.github.io/0.85/zitronenfalter 2.png'); 
+    background-image: url('https://enchantmentenhancement.github.io/0.85/zitronenfalter 3.png'); 
     background-size: 100% auto; 
     font-size: 1px; }
 
